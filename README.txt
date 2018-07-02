@@ -1,0 +1,2 @@
+https://github.com/entuland/lua-quaternion is just a thin wrapper to make this library available as a mod inside the Minetest game.
+Please see https://rosettacode.org/wiki/Quaternion_type#Lua for the original version
